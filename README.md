@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clhoward88
+- 👋 Hi, I’m Cedar Howard
 - 👀 I’m interested in Data Analystics, Data Engineering and Data Science
 - 🌱 I’m currently learning SQL and Pythom
 - 💞️ I’m looking to collaborate on potential Data Analytica portfolio projects.
